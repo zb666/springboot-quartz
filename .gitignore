@@ -1,0 +1,4 @@
+# Project exclude paths
+/quartz-standalone/target/
+/spring-quartz/target/
+/springboot-quartz/target/
